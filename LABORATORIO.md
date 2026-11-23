@@ -6,10 +6,8 @@
 
 ## Integrantes
 
-Escribe aquí el nombre completo de cada estudiante. Con esta sección se identifica la entrega.
-
-- 
-- 
+- Jose Manuel Hernandez Sepulveda
+- Tomas Arroyave Celiz
 
 **No hay necesidad de usar IA. Solo hay que seguir los pasos de este laboratorio.**
 
